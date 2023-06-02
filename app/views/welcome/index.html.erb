@@ -1,0 +1,9 @@
+<div class="jumbotron">
+  <p><strong>Hoje é dia <%= l(Date.today) %></strong></p>
+  <h1 class="display-4"> <%= t("welcome") %> </h1>
+  <p class="lead"> <%= t("welcomemessage") %></p>
+  <hr class="my-4">
+  <p> <%= t("menumessage") %> </p>
+
+  <%= render "menu" %>
+</div>
