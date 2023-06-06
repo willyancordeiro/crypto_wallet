@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi! 👋 This is my first Ruby on Rails project. To make this Cryptowallet app, I followed Jackson Pires' Ruby on Rails course that you can find on Udemy.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Oi! 👋 Esse é o meu primeiro projeto usando Ruby on Rails. Pra criar esse aplicativo pra cadastrar e acompanhar cripto moedas, eu segui um tutorial do Jackson Pires que vocês pode encontrar na Udemy.
